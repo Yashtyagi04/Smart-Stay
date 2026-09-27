@@ -43,6 +43,16 @@
 
 ---
 
+## 🌐 Live Demo
+
+- **Frontend:** [https://smart-stay-delta.vercel.app](https://smart-stay-delta.vercel.app)
+- **Backend API:** [https://smart-stay-bb6h.onrender.com](https://smart-stay-bb6h.onrender.com)
+- **API Health Check:** [https://smart-stay-bb6h.onrender.com/api/health](https://smart-stay-bb6h.onrender.com/api/health)
+
+> The backend is hosted on Render and may take a short time to respond after a period of inactivity.
+
+---
+
 ## 🛠️ Technology Stack
 
 | Layer | Technologies |
