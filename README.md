@@ -1,19 +1,13 @@
 # SMART STAY 🏠🎓
 ### Centralized Broker-Free PG, Hostel & Roommate Discovery Platform (MERN Stack)
 
-> **Manipal University Jaipur (MUJ)**  
-> **Course:** AIM2270 — PBL-III Project  
+> **Manipal University Jaipur (MUJ)** 
 > **Degree:** B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning)  
 > **Academic Year:** 2023–2027  
 > 
 > **Project Team:**
 > - **Yash Tyagi** (Registration No: `23FE10CAI00376`)
-> - **Aakash Srivastava** (Registration No: `23FE10CAI00407`)
-> - **Yash Tyagi** (Registration No: `23FE10CAI00229`)
-> 
-> **Project Guide:** Dr. Anamika Dhillon  
-> **HOD:** Dr. Deepak Panwar  
-> **Department:** Artificial Intelligence & Machine Learning, Manipal University Jaipur
+
 
 ---
 
@@ -67,9 +61,7 @@ The application is pre-configured and ready to run.
 
 ### 1. Launch Both Frontend & Backend Together (Root Directory)
 ```bash
-cd /Users/yash/.gemini/antigravity-ide/scratch/smart-stay
-npm start
-```
+
 - **React Frontend**: [http://localhost:3000](http://localhost:3000)
 - **Express Backend API**: [http://localhost:5001](http://localhost:5001)
 - **API Health Check**: [http://localhost:5001/api/health](http://localhost:5001/api/health)
@@ -102,7 +94,7 @@ Smart Stay includes built-in demo profiles switchable in **1 click** directly fr
 |---|---|---|---|
 | **Student / Tenant** | Yash Tyagi | `tenant` | `yash@smartstay.com` |
 | **Hostel Landlord** | Rajesh Sharma | `landlord` | `rajesh@landlord.com` |
-| **Faculty Supervisor / Admin** | Dr. Anamika Dhillon | `admin` | `admin@smartstay.com` |
+| **Faculty Supervisor / Admin** | Admin| `admin` | `admin@smartstay.com` |
 
 *(Default password for manual login: `password123`)*
 
@@ -178,4 +170,4 @@ smart-stay/
 
 ---
 
-**Built with pride by Yash Tyagi, Aakash Srivastava, and Yash Tyagi for AIM2270 PBL-III at Manipal University Jaipur.**
+**Built with pride by Yash Tyagi**
