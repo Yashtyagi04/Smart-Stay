@@ -6,7 +6,7 @@
 > **Academic Year:** 2023–2027  
 > 
 > **Project Team:**
-> - **Yash Tyagi** (Registration No: `23FE10CAI00376`)
+> - **Yash Tyagi** (Registration No: `23FE10CAI00229`)
 
 
 ---
