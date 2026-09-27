@@ -1,0 +1,14 @@
+{
+  "name": "smart-stay",
+  "version": "1.0.0",
+  "description": "Smart Stay - Broker-free PG, Hostel & Roommate Discovery Platform (MERN Stack)",
+  "scripts": {
+    "start": "node start.js",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && node src/seed.js"
+  },
+  "keywords": ["mern", "pg-finder", "smart-stay", "roommate-matching", "student-housing"],
+  "author": "Yash Tyagi",
+  "license": "ISC"
+}
