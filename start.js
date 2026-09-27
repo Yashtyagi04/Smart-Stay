@@ -12,7 +12,7 @@ const server = spawn('npm', ['start'], {
   cwd: path.join(__dirname, 'server'),
   stdio: 'inherit',
   shell: true,
-  env: { ...process.env, PORT: '5001' }
+  env: { ...process.env, PORT: process.env.PORT || '5001' }
 });
 
 // Start React Vite Frontend

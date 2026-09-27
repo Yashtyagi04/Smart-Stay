@@ -71,6 +71,8 @@ The application is pre-configured and ready to run.
 
 ### 1. Launch Both Frontend & Backend Together (Root Directory)
 ```bash
+npm start
+```
 
 - **React Frontend**: [http://localhost:3000](http://localhost:3000)
 - **Express Backend API**: [http://localhost:5001](http://localhost:5001)
