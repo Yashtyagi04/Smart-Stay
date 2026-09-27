@@ -11,6 +11,16 @@
 
 ---
 
+## 🌐 Live Demo
+
+- **Frontend:** [https://smart-stay-delta.vercel.app](https://smart-stay-delta.vercel.app)
+- **Backend API:** [https://smart-stay-bb6h.onrender.com](https://smart-stay-bb6h.onrender.com)
+- **API Health Check:** [https://smart-stay-bb6h.onrender.com/api/health](https://smart-stay-bb6h.onrender.com/api/health)
+
+> The backend is hosted on Render and may take a short time to respond after a period of inactivity.
+
+---
+
 ## 📌 Project Overview
 
 **Smart Stay** addresses the housing and accommodation challenges faced by thousands of students relocating to Manipal University Jaipur and urban educational hubs. By bypassing third-party brokerage fees, the platform delivers a verified, transparent, and data-driven accommodation ecosystem.
@@ -40,16 +50,6 @@
    - Compare up to 3 accommodations across rent, deposit, meals, curfew times, and distance to campus.
 9. **Bilingual Localization (English ⇄ हिन्दी)**:
    - Navbar switch translating all UI elements, headings, filters, and prompts.
-
----
-
-## 🌐 Live Demo
-
-- **Frontend:** [https://smart-stay-delta.vercel.app](https://smart-stay-delta.vercel.app)
-- **Backend API:** [https://smart-stay-bb6h.onrender.com](https://smart-stay-bb6h.onrender.com)
-- **API Health Check:** [https://smart-stay-bb6h.onrender.com/api/health](https://smart-stay-bb6h.onrender.com/api/health)
-
-> The backend is hosted on Render and may take a short time to respond after a period of inactivity.
 
 ---
 
